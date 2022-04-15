@@ -12,3 +12,4 @@
 - Latex
 - Shiny
 - JavaFX
+- Git
