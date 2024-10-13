@@ -19,7 +19,7 @@
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javaScript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="images/sql-database-generic.svg" alt="sql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/latex-wide.svg" alt="latex" width="65" height="65"/>   
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>   
