@@ -15,15 +15,14 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pyTorch" width="55" height="55"/>
-        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="65" height="65"/> 
+      <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/huggingface.svg" alt="hf" width="55" height="55"/>
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javaScript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-icon.svg" alt="xml" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/latex-wide.svg" alt="latex" width="65" height="65"/>   
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="65" height="65"/>   
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/>   
     <img src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/googlecloudplatform.svg" alt="gcp" width="65" height="65"/>    
       
 </p>
