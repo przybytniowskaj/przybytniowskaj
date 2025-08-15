@@ -6,7 +6,7 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 Motivated Machine Learning Engineer and Data Scientist with 1.5 years of experience in data analysis within the fintech sector.
+- 🏦 Motivated Machine Learning Engineer and Data Scientist with 2.5 years of experience in data analysis within the fintech sector.
 - 🏫 Currently pursuing Master degree in Data Science at Warsaw University of Technology, Faculty of Mathematics and Information Science.
 - 📱 Feeling great in Artificial Intelligence and developing my skills with every opportunity.
 - 💻 I use daily: **.py**,  **.sql**.
